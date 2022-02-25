@@ -116,3 +116,4 @@ if __name__ == "__main__":
 # my: [1 ,2 ,3 10]
 # name: [4, 5, 6, 11]
 # cosine_similarity( is, name )
+# you are stupıd
